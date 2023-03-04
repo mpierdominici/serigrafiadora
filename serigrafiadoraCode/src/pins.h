@@ -16,5 +16,7 @@
 #define MPIN_SDA PB7
 #define MPIN_SCL_ PB6
 
+#define  MPIN_POSICION_ENTINTADOR PA6
+
 
 #endif
