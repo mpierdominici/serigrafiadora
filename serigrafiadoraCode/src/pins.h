@@ -18,5 +18,23 @@
 
 #define  MPIN_POSICION_ENTINTADOR PA6
 
+#define MPIN_IN_BTN1 PB1
+#define MPIN_IN_BTN2 PA5
+#define MPIN_IN_BTN3 PA4
+#define MPIN_IN_BTN4 PB15
+
+//Steppers
+
+#define MPIN_STEPPER_STEP1 PB9
+#define MPIN_STEPPER_DIR1 PA8
+#define MPIN_STEPPER_ENABLE PB14
+
+#define MPIN_STEPPER_STEP2 PB8
+#define MPIN_STEPPER_DIR2 PB13
+
+
+
+ 
+
 
 #endif
